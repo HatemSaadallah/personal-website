@@ -58,16 +58,16 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Azhar University",
+        "degree":"Bachelor's of Software Engineering",
+        "graduated":"2019-Present",
+        "description":"4.0"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Code for Palestine",
+        "degree":"",
+        "graduated":"2015-2017",
+        "description":"I joined Code for Palestine after I finished 10th grade, I attended the first camp in August 2015 in Jericho, I learned a lot of things, it was my first time ever to be part of such a program and meet foreigners."
       }
     ],
     "work":[
