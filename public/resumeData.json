@@ -4,17 +4,17 @@
     "occupation":"Data Scientist and Full Stack Developer",
     "description":"I have been playing with code since I was 12, so I know a thing or two",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I am a young man from Palestine. I have a fine experience with Web Development. I am comfortable with Bootstrap, Jquery and for backend, I can work on Python Flask efficiently. My own vision is to make a major affirmative change in the Arab region. I am eager to put work with everyone who shares my vision and move forward with our big community. I have a wide range of interests, I am a science enthusiast and a political and social activist. I am specifically interested in sustainability. In my free time, I love to play chess, watch TV series and drink coffee.",
+    "contactmessage":"Write me!",
     "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "phone": "+970595577724",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Al-Sen'a Crossroads",
+      "city":"Gaza",
+      "state":"Palestine",
+      "zip": "00970003"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "#",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
