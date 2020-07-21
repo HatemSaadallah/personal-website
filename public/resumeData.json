@@ -50,13 +50,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Some evaluation of my skills",
     "education":[
       {
         "school":"Azhar University",
         "degree":"Bachelor's of Software Engineering",
         "graduated":"2019-Present",
-        "description":"4.0"
+        "description":"3.8"
       },
       {
         "school":"Code for Palestine",
